@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "codeorbit-app": {
+      "hosting": {
+        "app": [
+          "codeorbit-app"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "codeorbit-app"
+  }
+}

@@ -1,13 +1,14 @@
-import {Component, ElementRef, ViewChild} from '@angular/core';
-import {FirestoreService} from "../../services/firestore/firestore.service";
+import {Component, ElementRef, OnInit, ViewChild} from '@angular/core';
+import {FirestoreService} from "../../../services/firestore/firestore.service";
+
 declare var google: any;
 
 @Component({
-  selector: 'app-home',
-  templateUrl: 'home.page.html',
-  styleUrls: ['home.page.scss'],
+  selector: 'app-transports-location',
+  templateUrl: './transports-location.page.html',
+  styleUrls: ['./transports-location.page.scss'],
 })
-export class HomePage {
+export class TransportsLocationPage implements OnInit {
   @ViewChild('map', { static: true }) mapElement: ElementRef = {} as ElementRef;
   map: any;
 
