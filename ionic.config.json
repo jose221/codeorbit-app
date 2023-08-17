@@ -1,0 +1,7 @@
+{
+  "name": "codeorbit-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
