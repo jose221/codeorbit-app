@@ -1,7 +1,6 @@
 import {Component, ElementRef, OnInit, ViewChild} from '@angular/core';
 import {FirestoreService} from "../../../services/firestore/firestore.service";
-
-declare var google: any;
+import {GoogleMapsService} from "../../../services/googleMaps/google-maps.service";
 
 @Component({
   selector: 'app-transports-location',
@@ -10,9 +9,10 @@ declare var google: any;
 })
 export class TransportsLocationPage implements OnInit {
   @ViewChild('map', { static: true }) mapElement: ElementRef = {} as ElementRef;
-  map: any;
 
-  constructor(private firestoreService: FirestoreService) {
+  constructor(private firestoreService: FirestoreService,
+              private googleMapsService: GoogleMapsService
+              ) {
     this.firestoreService.getCardinals().subscribe({
       next: (data) => {
         console.log(data)
@@ -27,12 +27,10 @@ export class TransportsLocationPage implements OnInit {
     this.loadMap();
   }
 
-  loadMap() {
-    const mapOptions = {
-      center: { lat: -34.397, lng: 150.644 },
-      zoom: 8,
-    };
-    this.map = new google.maps.Map(this.mapElement.nativeElement, mapOptions);
+  async loadMap() {
+    let map = await this.googleMapsService.loadMap(this.mapElement.nativeElement);
+    let currentPosition = await this.googleMapsService.getCurrentPosition();
+    let marker = await this.googleMapsService.markerMap({lat: currentPosition.latitude, lng: currentPosition.longitude}, 'Mi ubicación', true);
   }
 
 }
