@@ -1,0 +1,5164 @@
+[
+  {
+    "id": 14,
+    "bus_type": "Bus",
+    "route_name": "Ruta 1",
+    "start_time": "00:02:00",
+    "end_time": "00:02:00",
+    "fare": 2,
+    "created_at": "2023-08-18T09:55:18-05:00",
+    "updated_at": "2023-08-18T09:55:18-05:00",
+    "route": [
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8253268,
+        "longitude": 21.1749929,
+        "stop_name": "Paradero",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8265843,
+        "longitude": 21.1706681,
+        "stop_name": "Paradero",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8265298,
+        "longitude": 21.168124,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.826189,
+        "longitude": 21.165337,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8258626,
+        "longitude": 21.161665,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8256536,
+        "longitude": 21.159842,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825598,
+        "longitude": 21.15892,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8255442,
+        "longitude": 21.1576885,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825352,
+        "longitude": 21.158401,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825388,
+        "longitude": 21.159149,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8255485,
+        "longitude": 21.1611985,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8256302,
+        "longitude": 21.1627891,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8257837,
+        "longitude": 21.1663391,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825909,
+        "longitude": 21.167916,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8260843,
+        "longitude": 21.1743328,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8239275,
+        "longitude": 21.1753835,
+        "stop_name": "Paradero",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8208399,
+        "longitude": 21.1770534,
+        "stop_name": "Paradero",
+        "description": "Termino de ruta",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8065945,
+        "longitude": 21.1588771,
+        "stop_name": "Paradero 1",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7995376,
+        "longitude": 21.1548583,
+        "stop_name": "Paradero 2",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.795294,
+        "longitude": 21.150752,
+        "stop_name": "Paradero 3",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7920803,
+        "longitude": 21.147041,
+        "stop_name": "Paradero 4",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.790073,
+        "longitude": 21.144759,
+        "stop_name": "Paradero 5",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7827709,
+        "longitude": 21.1430647,
+        "stop_name": "Paradero 6",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7755872,
+        "longitude": 21.1423915,
+        "stop_name": "Paradero 7",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.771879,
+        "longitude": 21.139835,
+        "stop_name": "Paradero 8",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7698715,
+        "longitude": 21.1384814,
+        "stop_name": "Paradero 9",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7633131,
+        "longitude": 21.1354087,
+        "stop_name": "Paradero 10",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7609454,
+        "longitude": 21.1347092,
+        "stop_name": "Paradero 11",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7560166,
+        "longitude": 21.1346325,
+        "stop_name": "Paradero 12",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7542303,
+        "longitude": 21.134751,
+        "stop_name": "Paradero 13",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7496699,
+        "longitude": 21.1367044,
+        "stop_name": "Paradero 14",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7481993,
+        "longitude": 21.1351974,
+        "stop_name": "Paradero 15",
+        "description": "P.C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7482063,
+        "longitude": 21.1339345,
+        "stop_name": "Paradero 16",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486994,
+        "longitude": 21.1325154,
+        "stop_name": "Paradero 17",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.750465,
+        "longitude": 21.129657,
+        "stop_name": "Paradero 18",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7533268,
+        "longitude": 21.1268832,
+        "stop_name": "Paradero 19",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.755265,
+        "longitude": 21.123027,
+        "stop_name": "Paradero 20",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7563568,
+        "longitude": 21.1206235,
+        "stop_name": "Paradero 21",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.757413,
+        "longitude": 21.1184724,
+        "stop_name": "Paradero 22",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7590161,
+        "longitude": 21.1150698,
+        "stop_name": "Paradero 23",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7613599,
+        "longitude": 21.1127887,
+        "stop_name": "Paradero 24",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7631061,
+        "longitude": 21.1099701,
+        "stop_name": "Paradero 25",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7654847,
+        "longitude": 21.1034738,
+        "stop_name": "Paradero 26",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7670513,
+        "longitude": 21.1006223,
+        "stop_name": "Paradero 27",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7695436,
+        "longitude": 21.0953692,
+        "stop_name": "Paradero 28",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7706726,
+        "longitude": 21.0929267,
+        "stop_name": "Paradero 29",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.772407,
+        "longitude": 21.089516,
+        "stop_name": "Paradero 30",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7733151,
+        "longitude": 21.0876691,
+        "stop_name": "Paradero 31",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7748197,
+        "longitude": 21.08375,
+        "stop_name": "Paradero 32",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7761401,
+        "longitude": 21.0803004,
+        "stop_name": "Paradero 33",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7775772,
+        "longitude": 21.0755564,
+        "stop_name": "Paradero 34",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7794073,
+        "longitude": 21.0724105,
+        "stop_name": "Paradero 35",
+        "description": "p.c",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7806397,
+        "longitude": 21.0704645,
+        "stop_name": "Paradero 36",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7804347,
+        "longitude": 21.0671785,
+        "stop_name": "Paradero 37",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7799536,
+        "longitude": 21.0655674,
+        "stop_name": "Paradero 38",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7799513,
+        "longitude": 21.0609945,
+        "stop_name": "Paradero 39",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.781958,
+        "longitude": 21.058174,
+        "stop_name": "Paradero 40",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7825092,
+        "longitude": 21.0564912,
+        "stop_name": "Paradero 41",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830479,
+        "longitude": 21.0515269,
+        "stop_name": "Paradero 42",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7834374,
+        "longitude": 21.0479885,
+        "stop_name": "Paradero 43",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7833361,
+        "longitude": 21.0456614,
+        "stop_name": "Paradero 44",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.783069,
+        "longitude": 21.040949,
+        "stop_name": "Paradero 45",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830087,
+        "longitude": 21.0449825,
+        "stop_name": "Paradero 46",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7831001,
+        "longitude": 21.0483154,
+        "stop_name": "Paradero 47",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7824862,
+        "longitude": 21.0549127,
+        "stop_name": "Paradero 48",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7813786,
+        "longitude": 21.0590331,
+        "stop_name": "Paradero 49",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7793834,
+        "longitude": 21.0619903,
+        "stop_name": "Paradero 50",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7796843,
+        "longitude": 21.065568,
+        "stop_name": "Paradero 51",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7801364,
+        "longitude": 21.0673941,
+        "stop_name": "Paradero 52",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7798549,
+        "longitude": 21.0708536,
+        "stop_name": "Paradero 53",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7773725,
+        "longitude": 21.0751306,
+        "stop_name": "Paradero 55",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7771372,
+        "longitude": 21.0762309,
+        "stop_name": "Paradero 56",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.776664,
+        "longitude": 21.077791,
+        "stop_name": "Paradero 57",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7716939,
+        "longitude": 21.0903625,
+        "stop_name": "Paradero 61",
+        "description": "P.C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7703537,
+        "longitude": 21.092946,
+        "stop_name": "Paradero 62",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7790211,
+        "longitude": 21.0724601,
+        "stop_name": "Paradero 54",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7627628,
+        "longitude": 21.110159,
+        "stop_name": "Paradero 68",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7650224,
+        "longitude": 21.1038227,
+        "stop_name": "Paradero 67",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7756076,
+        "longitude": 21.0809176,
+        "stop_name": "Paradero 58",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.774271,
+        "longitude": 21.084387,
+        "stop_name": "Paradero 59",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7729535,
+        "longitude": 21.0877725,
+        "stop_name": "Paradero 60",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7691799,
+        "longitude": 21.0955761,
+        "stop_name": "Paradero 63",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7681095,
+        "longitude": 21.097999,
+        "stop_name": "Paradero 64",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.766761,
+        "longitude": 21.100631,
+        "stop_name": "Paradero 65",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7663783,
+        "longitude": 21.101316,
+        "stop_name": "Paradero 66",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7617898,
+        "longitude": 21.1119234,
+        "stop_name": "Paradero 69",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.759779,
+        "longitude": 21.1140567,
+        "stop_name": "Paradero 70",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.757137,
+        "longitude": 21.117681,
+        "stop_name": "Paradero 71",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7547917,
+        "longitude": 21.123902,
+        "stop_name": "Paradero 72",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.750652,
+        "longitude": 21.129076,
+        "stop_name": "Paradero 73",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7483567,
+        "longitude": 21.1318154,
+        "stop_name": "Paradero 74",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7472333,
+        "longitude": 21.1361136,
+        "stop_name": "Paradero 75",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7489682,
+        "longitude": 21.1374259,
+        "stop_name": "Paradero 76",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7508989,
+        "longitude": 21.1381673,
+        "stop_name": "Paradero 77",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7538702,
+        "longitude": 21.1350958,
+        "stop_name": "Paradero 78",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7612065,
+        "longitude": 21.1351516,
+        "stop_name": "Paradero 79",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7701143,
+        "longitude": 21.1390114,
+        "stop_name": "Paradero 80",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.77441,
+        "longitude": 21.141938,
+        "stop_name": "Paradero 81",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.777777,
+        "longitude": 21.1440095,
+        "stop_name": "Paradero 82",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830486,
+        "longitude": 21.143423,
+        "stop_name": "Paradero 83",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.785936,
+        "longitude": 21.1428776,
+        "stop_name": "Paradero 84",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7906163,
+        "longitude": 21.1457272,
+        "stop_name": "Paradero 85",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7932049,
+        "longitude": 21.1489322,
+        "stop_name": "Paradero 86",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7942562,
+        "longitude": 21.1501601,
+        "stop_name": "Paradero 87",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7957625,
+        "longitude": 21.151413,
+        "stop_name": "Paradero 88",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7989621,
+        "longitude": 21.1546045,
+        "stop_name": "Paradero 89",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.806481,
+        "longitude": 21.159181,
+        "stop_name": "Paradero 90",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8238562,
+        "longitude": 21.175583,
+        "stop_name": "Semáforo A",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8267146,
+        "longitude": 21.1741976,
+        "stop_name": "Semáforo B",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.826503,
+        "longitude": 21.17225,
+        "stop_name": "Semáforo Peatonal C",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8262973,
+        "longitude": 21.1702471,
+        "stop_name": "Semáforo D",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8253415,
+        "longitude": 21.1569648,
+        "stop_name": "Semáforo 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8213655,
+        "longitude": 21.1557051,
+        "stop_name": "Semáforo 2",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8074371,
+        "longitude": 21.1589629,
+        "stop_name": "Semáforo 3",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7925256,
+        "longitude": 21.1478236,
+        "stop_name": "Semáforo 4",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7914564,
+        "longitude": 21.1465007,
+        "stop_name": "Semáforo 5",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7827312,
+        "longitude": 21.1433475,
+        "stop_name": "Semáforo 6",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7700552,
+        "longitude": 21.1387789,
+        "stop_name": "Semáforo 7",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7609498,
+        "longitude": 21.1349264,
+        "stop_name": "Semáforo 8",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.749503,
+        "longitude": 21.1367289,
+        "stop_name": "Semáforo Peatonal 9",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7482452,
+        "longitude": 21.1338169,
+        "stop_name": "Semáforo Peatonal10",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486936,
+        "longitude": 21.1323675,
+        "stop_name": "Semáforo Peatonal 11",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7503763,
+        "longitude": 21.1295522,
+        "stop_name": "Semáforo 12",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7572436,
+        "longitude": 21.118022,
+        "stop_name": "Semáforo 13",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7617697,
+        "longitude": 21.1120981,
+        "stop_name": "Semáforo 14",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7626341,
+        "longitude": 21.110743,
+        "stop_name": "Semáforo 15",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7630727,
+        "longitude": 21.1096921,
+        "stop_name": "Semáforo 16",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7633033,
+        "longitude": 21.1087526,
+        "stop_name": "Semáforo 17",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7650297,
+        "longitude": 21.1040582,
+        "stop_name": "Semáforo 18",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7667073,
+        "longitude": 21.1009481,
+        "stop_name": "Semáforo 19",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7776657,
+        "longitude": 21.075206,
+        "stop_name": "Semáforo 20",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486654,
+        "longitude": 21.1314875,
+        "stop_name": "Semáforo 21",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7471273,
+        "longitude": 21.135924,
+        "stop_name": "Semáforo Peatonal 22",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7491877,
+        "longitude": 21.1376651,
+        "stop_name": "Semáforo Peatonal 23",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7510329,
+        "longitude": 21.1381178,
+        "stop_name": "Semáforo Peatonal 24",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8253268,
+        "longitude": 21.1749929,
+        "stop_name": "Paradero",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8265843,
+        "longitude": 21.1706681,
+        "stop_name": "Paradero",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8265298,
+        "longitude": 21.168124,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.826189,
+        "longitude": 21.165337,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8258626,
+        "longitude": 21.161665,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8256536,
+        "longitude": 21.159842,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825598,
+        "longitude": 21.15892,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8255442,
+        "longitude": 21.1576885,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825352,
+        "longitude": 21.158401,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825388,
+        "longitude": 21.159149,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8255485,
+        "longitude": 21.1611985,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8256302,
+        "longitude": 21.1627891,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8257837,
+        "longitude": 21.1663391,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825909,
+        "longitude": 21.167916,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8260843,
+        "longitude": 21.1743328,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8239275,
+        "longitude": 21.1753835,
+        "stop_name": "Paradero",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8208399,
+        "longitude": 21.1770534,
+        "stop_name": "Paradero",
+        "description": "Termino de ruta",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8065945,
+        "longitude": 21.1588771,
+        "stop_name": "Paradero 1",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7995376,
+        "longitude": 21.1548583,
+        "stop_name": "Paradero 2",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.795294,
+        "longitude": 21.150752,
+        "stop_name": "Paradero 3",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7920803,
+        "longitude": 21.147041,
+        "stop_name": "Paradero 4",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.790073,
+        "longitude": 21.144759,
+        "stop_name": "Paradero 5",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7827709,
+        "longitude": 21.1430647,
+        "stop_name": "Paradero 6",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7755872,
+        "longitude": 21.1423915,
+        "stop_name": "Paradero 7",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.771879,
+        "longitude": 21.139835,
+        "stop_name": "Paradero 8",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7698715,
+        "longitude": 21.1384814,
+        "stop_name": "Paradero 9",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7633131,
+        "longitude": 21.1354087,
+        "stop_name": "Paradero 10",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7609454,
+        "longitude": 21.1347092,
+        "stop_name": "Paradero 11",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7560166,
+        "longitude": 21.1346325,
+        "stop_name": "Paradero 12",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7542303,
+        "longitude": 21.134751,
+        "stop_name": "Paradero 13",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7496699,
+        "longitude": 21.1367044,
+        "stop_name": "Paradero 14",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7481993,
+        "longitude": 21.1351974,
+        "stop_name": "Paradero 15",
+        "description": "P.C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7482063,
+        "longitude": 21.1339345,
+        "stop_name": "Paradero 16",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486994,
+        "longitude": 21.1325154,
+        "stop_name": "Paradero 17",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.750465,
+        "longitude": 21.129657,
+        "stop_name": "Paradero 18",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7533268,
+        "longitude": 21.1268832,
+        "stop_name": "Paradero 19",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.755265,
+        "longitude": 21.123027,
+        "stop_name": "Paradero 20",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7563568,
+        "longitude": 21.1206235,
+        "stop_name": "Paradero 21",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.757413,
+        "longitude": 21.1184724,
+        "stop_name": "Paradero 22",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7590161,
+        "longitude": 21.1150698,
+        "stop_name": "Paradero 23",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7613599,
+        "longitude": 21.1127887,
+        "stop_name": "Paradero 24",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7631061,
+        "longitude": 21.1099701,
+        "stop_name": "Paradero 25",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7654847,
+        "longitude": 21.1034738,
+        "stop_name": "Paradero 26",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7670513,
+        "longitude": 21.1006223,
+        "stop_name": "Paradero 27",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7695436,
+        "longitude": 21.0953692,
+        "stop_name": "Paradero 28",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7706726,
+        "longitude": 21.0929267,
+        "stop_name": "Paradero 29",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.772407,
+        "longitude": 21.089516,
+        "stop_name": "Paradero 30",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7733151,
+        "longitude": 21.0876691,
+        "stop_name": "Paradero 31",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7748197,
+        "longitude": 21.08375,
+        "stop_name": "Paradero 32",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7761401,
+        "longitude": 21.0803004,
+        "stop_name": "Paradero 33",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7775772,
+        "longitude": 21.0755564,
+        "stop_name": "Paradero 34",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7794073,
+        "longitude": 21.0724105,
+        "stop_name": "Paradero 35",
+        "description": "p.c",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7806397,
+        "longitude": 21.0704645,
+        "stop_name": "Paradero 36",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7804347,
+        "longitude": 21.0671785,
+        "stop_name": "Paradero 37",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7799536,
+        "longitude": 21.0655674,
+        "stop_name": "Paradero 38",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7799513,
+        "longitude": 21.0609945,
+        "stop_name": "Paradero 39",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.781958,
+        "longitude": 21.058174,
+        "stop_name": "Paradero 40",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7825092,
+        "longitude": 21.0564912,
+        "stop_name": "Paradero 41",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830479,
+        "longitude": 21.0515269,
+        "stop_name": "Paradero 42",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7834374,
+        "longitude": 21.0479885,
+        "stop_name": "Paradero 43",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7833361,
+        "longitude": 21.0456614,
+        "stop_name": "Paradero 44",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.783069,
+        "longitude": 21.040949,
+        "stop_name": "Paradero 45",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830087,
+        "longitude": 21.0449825,
+        "stop_name": "Paradero 46",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7831001,
+        "longitude": 21.0483154,
+        "stop_name": "Paradero 47",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7824862,
+        "longitude": 21.0549127,
+        "stop_name": "Paradero 48",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7813786,
+        "longitude": 21.0590331,
+        "stop_name": "Paradero 49",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7793834,
+        "longitude": 21.0619903,
+        "stop_name": "Paradero 50",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7796843,
+        "longitude": 21.065568,
+        "stop_name": "Paradero 51",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7801364,
+        "longitude": 21.0673941,
+        "stop_name": "Paradero 52",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7798549,
+        "longitude": 21.0708536,
+        "stop_name": "Paradero 53",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7773725,
+        "longitude": 21.0751306,
+        "stop_name": "Paradero 55",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7771372,
+        "longitude": 21.0762309,
+        "stop_name": "Paradero 56",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.776664,
+        "longitude": 21.077791,
+        "stop_name": "Paradero 57",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7716939,
+        "longitude": 21.0903625,
+        "stop_name": "Paradero 61",
+        "description": "P.C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7703537,
+        "longitude": 21.092946,
+        "stop_name": "Paradero 62",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7790211,
+        "longitude": 21.0724601,
+        "stop_name": "Paradero 54",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7627628,
+        "longitude": 21.110159,
+        "stop_name": "Paradero 68",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7650224,
+        "longitude": 21.1038227,
+        "stop_name": "Paradero 67",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7756076,
+        "longitude": 21.0809176,
+        "stop_name": "Paradero 58",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.774271,
+        "longitude": 21.084387,
+        "stop_name": "Paradero 59",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7729535,
+        "longitude": 21.0877725,
+        "stop_name": "Paradero 60",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7691799,
+        "longitude": 21.0955761,
+        "stop_name": "Paradero 63",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7681095,
+        "longitude": 21.097999,
+        "stop_name": "Paradero 64",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.766761,
+        "longitude": 21.100631,
+        "stop_name": "Paradero 65",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7663783,
+        "longitude": 21.101316,
+        "stop_name": "Paradero 66",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7617898,
+        "longitude": 21.1119234,
+        "stop_name": "Paradero 69",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.759779,
+        "longitude": 21.1140567,
+        "stop_name": "Paradero 70",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.757137,
+        "longitude": 21.117681,
+        "stop_name": "Paradero 71",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7547917,
+        "longitude": 21.123902,
+        "stop_name": "Paradero 72",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.750652,
+        "longitude": 21.129076,
+        "stop_name": "Paradero 73",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7483567,
+        "longitude": 21.1318154,
+        "stop_name": "Paradero 74",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7472333,
+        "longitude": 21.1361136,
+        "stop_name": "Paradero 75",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7489682,
+        "longitude": 21.1374259,
+        "stop_name": "Paradero 76",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7508989,
+        "longitude": 21.1381673,
+        "stop_name": "Paradero 77",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7538702,
+        "longitude": 21.1350958,
+        "stop_name": "Paradero 78",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7612065,
+        "longitude": 21.1351516,
+        "stop_name": "Paradero 79",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7701143,
+        "longitude": 21.1390114,
+        "stop_name": "Paradero 80",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.77441,
+        "longitude": 21.141938,
+        "stop_name": "Paradero 81",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.777777,
+        "longitude": 21.1440095,
+        "stop_name": "Paradero 82",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830486,
+        "longitude": 21.143423,
+        "stop_name": "Paradero 83",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.785936,
+        "longitude": 21.1428776,
+        "stop_name": "Paradero 84",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7906163,
+        "longitude": 21.1457272,
+        "stop_name": "Paradero 85",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7932049,
+        "longitude": 21.1489322,
+        "stop_name": "Paradero 86",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7942562,
+        "longitude": 21.1501601,
+        "stop_name": "Paradero 87",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7957625,
+        "longitude": 21.151413,
+        "stop_name": "Paradero 88",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7989621,
+        "longitude": 21.1546045,
+        "stop_name": "Paradero 89",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.806481,
+        "longitude": 21.159181,
+        "stop_name": "Paradero 90",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8238562,
+        "longitude": 21.175583,
+        "stop_name": "Semáforo A",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8267146,
+        "longitude": 21.1741976,
+        "stop_name": "Semáforo B",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.826503,
+        "longitude": 21.17225,
+        "stop_name": "Semáforo Peatonal C",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8262973,
+        "longitude": 21.1702471,
+        "stop_name": "Semáforo D",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8253415,
+        "longitude": 21.1569648,
+        "stop_name": "Semáforo 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8213655,
+        "longitude": 21.1557051,
+        "stop_name": "Semáforo 2",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8074371,
+        "longitude": 21.1589629,
+        "stop_name": "Semáforo 3",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7925256,
+        "longitude": 21.1478236,
+        "stop_name": "Semáforo 4",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7914564,
+        "longitude": 21.1465007,
+        "stop_name": "Semáforo 5",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7827312,
+        "longitude": 21.1433475,
+        "stop_name": "Semáforo 6",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7700552,
+        "longitude": 21.1387789,
+        "stop_name": "Semáforo 7",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7609498,
+        "longitude": 21.1349264,
+        "stop_name": "Semáforo 8",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.749503,
+        "longitude": 21.1367289,
+        "stop_name": "Semáforo Peatonal 9",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7482452,
+        "longitude": 21.1338169,
+        "stop_name": "Semáforo Peatonal10",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486936,
+        "longitude": 21.1323675,
+        "stop_name": "Semáforo Peatonal 11",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7503763,
+        "longitude": 21.1295522,
+        "stop_name": "Semáforo 12",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7572436,
+        "longitude": 21.118022,
+        "stop_name": "Semáforo 13",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7617697,
+        "longitude": 21.1120981,
+        "stop_name": "Semáforo 14",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7626341,
+        "longitude": 21.110743,
+        "stop_name": "Semáforo 15",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7630727,
+        "longitude": 21.1096921,
+        "stop_name": "Semáforo 16",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7633033,
+        "longitude": 21.1087526,
+        "stop_name": "Semáforo 17",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7650297,
+        "longitude": 21.1040582,
+        "stop_name": "Semáforo 18",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7667073,
+        "longitude": 21.1009481,
+        "stop_name": "Semáforo 19",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7776657,
+        "longitude": 21.075206,
+        "stop_name": "Semáforo 20",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486654,
+        "longitude": 21.1314875,
+        "stop_name": "Semáforo 21",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7471273,
+        "longitude": 21.135924,
+        "stop_name": "Semáforo Peatonal 22",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7491877,
+        "longitude": 21.1376651,
+        "stop_name": "Semáforo Peatonal 23",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7510329,
+        "longitude": 21.1381178,
+        "stop_name": "Semáforo Peatonal 24",
+        "description": "Sin descripción",
+        "delay_time": 0
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "bus_type": "Bus",
+    "route_name": "Ruta 2",
+    "start_time": "00:02:00",
+    "end_time": "00:02:00",
+    "fare": 2,
+    "created_at": "2023-08-18T12:42:21-05:00",
+    "updated_at": "2023-08-18T12:42:21-05:00",
+    "route": [
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8253268,
+        "longitude": 21.1749929,
+        "stop_name": "Paradero",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8265843,
+        "longitude": 21.1706681,
+        "stop_name": "Paradero",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8265298,
+        "longitude": 21.168124,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.826189,
+        "longitude": 21.165337,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8258626,
+        "longitude": 21.161665,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8256536,
+        "longitude": 21.159842,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825598,
+        "longitude": 21.15892,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8255442,
+        "longitude": 21.1576885,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825352,
+        "longitude": 21.158401,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825388,
+        "longitude": 21.159149,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8255485,
+        "longitude": 21.1611985,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8256302,
+        "longitude": 21.1627891,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8257837,
+        "longitude": 21.1663391,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825909,
+        "longitude": 21.167916,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8260843,
+        "longitude": 21.1743328,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8239275,
+        "longitude": 21.1753835,
+        "stop_name": "Paradero",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8208399,
+        "longitude": 21.1770534,
+        "stop_name": "Paradero",
+        "description": "Termino de ruta",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8065945,
+        "longitude": 21.1588771,
+        "stop_name": "Paradero 1",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7995376,
+        "longitude": 21.1548583,
+        "stop_name": "Paradero 2",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.795294,
+        "longitude": 21.150752,
+        "stop_name": "Paradero 3",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7920803,
+        "longitude": 21.147041,
+        "stop_name": "Paradero 4",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.790073,
+        "longitude": 21.144759,
+        "stop_name": "Paradero 5",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7827709,
+        "longitude": 21.1430647,
+        "stop_name": "Paradero 6",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7755872,
+        "longitude": 21.1423915,
+        "stop_name": "Paradero 7",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.771879,
+        "longitude": 21.139835,
+        "stop_name": "Paradero 8",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7698715,
+        "longitude": 21.1384814,
+        "stop_name": "Paradero 9",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7633131,
+        "longitude": 21.1354087,
+        "stop_name": "Paradero 10",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7609454,
+        "longitude": 21.1347092,
+        "stop_name": "Paradero 11",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7560166,
+        "longitude": 21.1346325,
+        "stop_name": "Paradero 12",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7542303,
+        "longitude": 21.134751,
+        "stop_name": "Paradero 13",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7496699,
+        "longitude": 21.1367044,
+        "stop_name": "Paradero 14",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7481993,
+        "longitude": 21.1351974,
+        "stop_name": "Paradero 15",
+        "description": "P.C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7482063,
+        "longitude": 21.1339345,
+        "stop_name": "Paradero 16",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486994,
+        "longitude": 21.1325154,
+        "stop_name": "Paradero 17",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.750465,
+        "longitude": 21.129657,
+        "stop_name": "Paradero 18",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7533268,
+        "longitude": 21.1268832,
+        "stop_name": "Paradero 19",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.755265,
+        "longitude": 21.123027,
+        "stop_name": "Paradero 20",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7563568,
+        "longitude": 21.1206235,
+        "stop_name": "Paradero 21",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.757413,
+        "longitude": 21.1184724,
+        "stop_name": "Paradero 22",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7590161,
+        "longitude": 21.1150698,
+        "stop_name": "Paradero 23",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7613599,
+        "longitude": 21.1127887,
+        "stop_name": "Paradero 24",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7631061,
+        "longitude": 21.1099701,
+        "stop_name": "Paradero 25",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7654847,
+        "longitude": 21.1034738,
+        "stop_name": "Paradero 26",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7670513,
+        "longitude": 21.1006223,
+        "stop_name": "Paradero 27",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7695436,
+        "longitude": 21.0953692,
+        "stop_name": "Paradero 28",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7706726,
+        "longitude": 21.0929267,
+        "stop_name": "Paradero 29",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.772407,
+        "longitude": 21.089516,
+        "stop_name": "Paradero 30",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7733151,
+        "longitude": 21.0876691,
+        "stop_name": "Paradero 31",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7748197,
+        "longitude": 21.08375,
+        "stop_name": "Paradero 32",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7761401,
+        "longitude": 21.0803004,
+        "stop_name": "Paradero 33",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7775772,
+        "longitude": 21.0755564,
+        "stop_name": "Paradero 34",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7794073,
+        "longitude": 21.0724105,
+        "stop_name": "Paradero 35",
+        "description": "p.c",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7806397,
+        "longitude": 21.0704645,
+        "stop_name": "Paradero 36",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7804347,
+        "longitude": 21.0671785,
+        "stop_name": "Paradero 37",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7799536,
+        "longitude": 21.0655674,
+        "stop_name": "Paradero 38",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7799513,
+        "longitude": 21.0609945,
+        "stop_name": "Paradero 39",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.781958,
+        "longitude": 21.058174,
+        "stop_name": "Paradero 40",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7825092,
+        "longitude": 21.0564912,
+        "stop_name": "Paradero 41",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830479,
+        "longitude": 21.0515269,
+        "stop_name": "Paradero 42",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7834374,
+        "longitude": 21.0479885,
+        "stop_name": "Paradero 43",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7833361,
+        "longitude": 21.0456614,
+        "stop_name": "Paradero 44",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.783069,
+        "longitude": 21.040949,
+        "stop_name": "Paradero 45",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830087,
+        "longitude": 21.0449825,
+        "stop_name": "Paradero 46",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7831001,
+        "longitude": 21.0483154,
+        "stop_name": "Paradero 47",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7824862,
+        "longitude": 21.0549127,
+        "stop_name": "Paradero 48",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7813786,
+        "longitude": 21.0590331,
+        "stop_name": "Paradero 49",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7793834,
+        "longitude": 21.0619903,
+        "stop_name": "Paradero 50",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7796843,
+        "longitude": 21.065568,
+        "stop_name": "Paradero 51",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7801364,
+        "longitude": 21.0673941,
+        "stop_name": "Paradero 52",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7798549,
+        "longitude": 21.0708536,
+        "stop_name": "Paradero 53",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7773725,
+        "longitude": 21.0751306,
+        "stop_name": "Paradero 55",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7771372,
+        "longitude": 21.0762309,
+        "stop_name": "Paradero 56",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.776664,
+        "longitude": 21.077791,
+        "stop_name": "Paradero 57",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7716939,
+        "longitude": 21.0903625,
+        "stop_name": "Paradero 61",
+        "description": "P.C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7703537,
+        "longitude": 21.092946,
+        "stop_name": "Paradero 62",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7790211,
+        "longitude": 21.0724601,
+        "stop_name": "Paradero 54",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7627628,
+        "longitude": 21.110159,
+        "stop_name": "Paradero 68",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7650224,
+        "longitude": 21.1038227,
+        "stop_name": "Paradero 67",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7756076,
+        "longitude": 21.0809176,
+        "stop_name": "Paradero 58",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.774271,
+        "longitude": 21.084387,
+        "stop_name": "Paradero 59",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7729535,
+        "longitude": 21.0877725,
+        "stop_name": "Paradero 60",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7691799,
+        "longitude": 21.0955761,
+        "stop_name": "Paradero 63",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7681095,
+        "longitude": 21.097999,
+        "stop_name": "Paradero 64",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.766761,
+        "longitude": 21.100631,
+        "stop_name": "Paradero 65",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7663783,
+        "longitude": 21.101316,
+        "stop_name": "Paradero 66",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7617898,
+        "longitude": 21.1119234,
+        "stop_name": "Paradero 69",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.759779,
+        "longitude": 21.1140567,
+        "stop_name": "Paradero 70",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.757137,
+        "longitude": 21.117681,
+        "stop_name": "Paradero 71",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7547917,
+        "longitude": 21.123902,
+        "stop_name": "Paradero 72",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.750652,
+        "longitude": 21.129076,
+        "stop_name": "Paradero 73",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7483567,
+        "longitude": 21.1318154,
+        "stop_name": "Paradero 74",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7472333,
+        "longitude": 21.1361136,
+        "stop_name": "Paradero 75",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7489682,
+        "longitude": 21.1374259,
+        "stop_name": "Paradero 76",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7508989,
+        "longitude": 21.1381673,
+        "stop_name": "Paradero 77",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7538702,
+        "longitude": 21.1350958,
+        "stop_name": "Paradero 78",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7612065,
+        "longitude": 21.1351516,
+        "stop_name": "Paradero 79",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7701143,
+        "longitude": 21.1390114,
+        "stop_name": "Paradero 80",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.77441,
+        "longitude": 21.141938,
+        "stop_name": "Paradero 81",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.777777,
+        "longitude": 21.1440095,
+        "stop_name": "Paradero 82",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830486,
+        "longitude": 21.143423,
+        "stop_name": "Paradero 83",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.785936,
+        "longitude": 21.1428776,
+        "stop_name": "Paradero 84",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7906163,
+        "longitude": 21.1457272,
+        "stop_name": "Paradero 85",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7932049,
+        "longitude": 21.1489322,
+        "stop_name": "Paradero 86",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7942562,
+        "longitude": 21.1501601,
+        "stop_name": "Paradero 87",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7957625,
+        "longitude": 21.151413,
+        "stop_name": "Paradero 88",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7989621,
+        "longitude": 21.1546045,
+        "stop_name": "Paradero 89",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.806481,
+        "longitude": 21.159181,
+        "stop_name": "Paradero 90",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8238562,
+        "longitude": 21.175583,
+        "stop_name": "Semáforo A",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8267146,
+        "longitude": 21.1741976,
+        "stop_name": "Semáforo B",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.826503,
+        "longitude": 21.17225,
+        "stop_name": "Semáforo Peatonal C",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8262973,
+        "longitude": 21.1702471,
+        "stop_name": "Semáforo D",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8253415,
+        "longitude": 21.1569648,
+        "stop_name": "Semáforo 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8213655,
+        "longitude": 21.1557051,
+        "stop_name": "Semáforo 2",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8074371,
+        "longitude": 21.1589629,
+        "stop_name": "Semáforo 3",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7925256,
+        "longitude": 21.1478236,
+        "stop_name": "Semáforo 4",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7914564,
+        "longitude": 21.1465007,
+        "stop_name": "Semáforo 5",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7827312,
+        "longitude": 21.1433475,
+        "stop_name": "Semáforo 6",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7700552,
+        "longitude": 21.1387789,
+        "stop_name": "Semáforo 7",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7609498,
+        "longitude": 21.1349264,
+        "stop_name": "Semáforo 8",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.749503,
+        "longitude": 21.1367289,
+        "stop_name": "Semáforo Peatonal 9",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7482452,
+        "longitude": 21.1338169,
+        "stop_name": "Semáforo Peatonal10",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486936,
+        "longitude": 21.1323675,
+        "stop_name": "Semáforo Peatonal 11",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7503763,
+        "longitude": 21.1295522,
+        "stop_name": "Semáforo 12",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7572436,
+        "longitude": 21.118022,
+        "stop_name": "Semáforo 13",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7617697,
+        "longitude": 21.1120981,
+        "stop_name": "Semáforo 14",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7626341,
+        "longitude": 21.110743,
+        "stop_name": "Semáforo 15",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7630727,
+        "longitude": 21.1096921,
+        "stop_name": "Semáforo 16",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7633033,
+        "longitude": 21.1087526,
+        "stop_name": "Semáforo 17",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7650297,
+        "longitude": 21.1040582,
+        "stop_name": "Semáforo 18",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7667073,
+        "longitude": 21.1009481,
+        "stop_name": "Semáforo 19",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7776657,
+        "longitude": 21.075206,
+        "stop_name": "Semáforo 20",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486654,
+        "longitude": 21.1314875,
+        "stop_name": "Semáforo 21",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7471273,
+        "longitude": 21.135924,
+        "stop_name": "Semáforo Peatonal 22",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7491877,
+        "longitude": 21.1376651,
+        "stop_name": "Semáforo Peatonal 23",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7510329,
+        "longitude": 21.1381178,
+        "stop_name": "Semáforo Peatonal 24",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8234568,
+        "longitude": 21.1759333,
+        "stop_name": "Base Inicio de Ruta 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8253268,
+        "longitude": 21.1749929,
+        "stop_name": "Paradero",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8265843,
+        "longitude": 21.1706681,
+        "stop_name": "Paradero",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8265298,
+        "longitude": 21.168124,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.826189,
+        "longitude": 21.165337,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8258626,
+        "longitude": 21.161665,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8256536,
+        "longitude": 21.159842,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825598,
+        "longitude": 21.15892,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8255442,
+        "longitude": 21.1576885,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825352,
+        "longitude": 21.158401,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825388,
+        "longitude": 21.159149,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8255485,
+        "longitude": 21.1611985,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8256302,
+        "longitude": 21.1627891,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8257837,
+        "longitude": 21.1663391,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.825909,
+        "longitude": 21.167916,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8260843,
+        "longitude": 21.1743328,
+        "stop_name": "Paradero",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8239275,
+        "longitude": 21.1753835,
+        "stop_name": "Paradero",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8208399,
+        "longitude": 21.1770534,
+        "stop_name": "Paradero",
+        "description": "Termino de ruta",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8065945,
+        "longitude": 21.1588771,
+        "stop_name": "Paradero 1",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7995376,
+        "longitude": 21.1548583,
+        "stop_name": "Paradero 2",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.795294,
+        "longitude": 21.150752,
+        "stop_name": "Paradero 3",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7920803,
+        "longitude": 21.147041,
+        "stop_name": "Paradero 4",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.790073,
+        "longitude": 21.144759,
+        "stop_name": "Paradero 5",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7827709,
+        "longitude": 21.1430647,
+        "stop_name": "Paradero 6",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7755872,
+        "longitude": 21.1423915,
+        "stop_name": "Paradero 7",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.771879,
+        "longitude": 21.139835,
+        "stop_name": "Paradero 8",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7698715,
+        "longitude": 21.1384814,
+        "stop_name": "Paradero 9",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7633131,
+        "longitude": 21.1354087,
+        "stop_name": "Paradero 10",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7609454,
+        "longitude": 21.1347092,
+        "stop_name": "Paradero 11",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7560166,
+        "longitude": 21.1346325,
+        "stop_name": "Paradero 12",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7542303,
+        "longitude": 21.134751,
+        "stop_name": "Paradero 13",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7496699,
+        "longitude": 21.1367044,
+        "stop_name": "Paradero 14",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7481993,
+        "longitude": 21.1351974,
+        "stop_name": "Paradero 15",
+        "description": "P.C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7482063,
+        "longitude": 21.1339345,
+        "stop_name": "Paradero 16",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486994,
+        "longitude": 21.1325154,
+        "stop_name": "Paradero 17",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.750465,
+        "longitude": 21.129657,
+        "stop_name": "Paradero 18",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7533268,
+        "longitude": 21.1268832,
+        "stop_name": "Paradero 19",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.755265,
+        "longitude": 21.123027,
+        "stop_name": "Paradero 20",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7563568,
+        "longitude": 21.1206235,
+        "stop_name": "Paradero 21",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.757413,
+        "longitude": 21.1184724,
+        "stop_name": "Paradero 22",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7590161,
+        "longitude": 21.1150698,
+        "stop_name": "Paradero 23",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7613599,
+        "longitude": 21.1127887,
+        "stop_name": "Paradero 24",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7631061,
+        "longitude": 21.1099701,
+        "stop_name": "Paradero 25",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7654847,
+        "longitude": 21.1034738,
+        "stop_name": "Paradero 26",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7670513,
+        "longitude": 21.1006223,
+        "stop_name": "Paradero 27",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7695436,
+        "longitude": 21.0953692,
+        "stop_name": "Paradero 28",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7706726,
+        "longitude": 21.0929267,
+        "stop_name": "Paradero 29",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.772407,
+        "longitude": 21.089516,
+        "stop_name": "Paradero 30",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7733151,
+        "longitude": 21.0876691,
+        "stop_name": "Paradero 31",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7748197,
+        "longitude": 21.08375,
+        "stop_name": "Paradero 32",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7761401,
+        "longitude": 21.0803004,
+        "stop_name": "Paradero 33",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7775772,
+        "longitude": 21.0755564,
+        "stop_name": "Paradero 34",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7794073,
+        "longitude": 21.0724105,
+        "stop_name": "Paradero 35",
+        "description": "p.c",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7806397,
+        "longitude": 21.0704645,
+        "stop_name": "Paradero 36",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7804347,
+        "longitude": 21.0671785,
+        "stop_name": "Paradero 37",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7799536,
+        "longitude": 21.0655674,
+        "stop_name": "Paradero 38",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7799513,
+        "longitude": 21.0609945,
+        "stop_name": "Paradero 39",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.781958,
+        "longitude": 21.058174,
+        "stop_name": "Paradero 40",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7825092,
+        "longitude": 21.0564912,
+        "stop_name": "Paradero 41",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830479,
+        "longitude": 21.0515269,
+        "stop_name": "Paradero 42",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7834374,
+        "longitude": 21.0479885,
+        "stop_name": "Paradero 43",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7833361,
+        "longitude": 21.0456614,
+        "stop_name": "Paradero 44",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.783069,
+        "longitude": 21.040949,
+        "stop_name": "Paradero 45",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830087,
+        "longitude": 21.0449825,
+        "stop_name": "Paradero 46",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7831001,
+        "longitude": 21.0483154,
+        "stop_name": "Paradero 47",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7824862,
+        "longitude": 21.0549127,
+        "stop_name": "Paradero 48",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7813786,
+        "longitude": 21.0590331,
+        "stop_name": "Paradero 49",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7793834,
+        "longitude": 21.0619903,
+        "stop_name": "Paradero 50",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7796843,
+        "longitude": 21.065568,
+        "stop_name": "Paradero 51",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7801364,
+        "longitude": 21.0673941,
+        "stop_name": "Paradero 52",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7798549,
+        "longitude": 21.0708536,
+        "stop_name": "Paradero 53",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7773725,
+        "longitude": 21.0751306,
+        "stop_name": "Paradero 55",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7771372,
+        "longitude": 21.0762309,
+        "stop_name": "Paradero 56",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.776664,
+        "longitude": 21.077791,
+        "stop_name": "Paradero 57",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7716939,
+        "longitude": 21.0903625,
+        "stop_name": "Paradero 61",
+        "description": "P.C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7703537,
+        "longitude": 21.092946,
+        "stop_name": "Paradero 62",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7790211,
+        "longitude": 21.0724601,
+        "stop_name": "Paradero 54",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7627628,
+        "longitude": 21.110159,
+        "stop_name": "Paradero 68",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7650224,
+        "longitude": 21.1038227,
+        "stop_name": "Paradero 67",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7756076,
+        "longitude": 21.0809176,
+        "stop_name": "Paradero 58",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.774271,
+        "longitude": 21.084387,
+        "stop_name": "Paradero 59",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7729535,
+        "longitude": 21.0877725,
+        "stop_name": "Paradero 60",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7691799,
+        "longitude": 21.0955761,
+        "stop_name": "Paradero 63",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7681095,
+        "longitude": 21.097999,
+        "stop_name": "Paradero 64",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.766761,
+        "longitude": 21.100631,
+        "stop_name": "Paradero 65",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7663783,
+        "longitude": 21.101316,
+        "stop_name": "Paradero 66",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7617898,
+        "longitude": 21.1119234,
+        "stop_name": "Paradero 69",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.759779,
+        "longitude": 21.1140567,
+        "stop_name": "Paradero 70",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.757137,
+        "longitude": 21.117681,
+        "stop_name": "Paradero 71",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7547917,
+        "longitude": 21.123902,
+        "stop_name": "Paradero 72",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.750652,
+        "longitude": 21.129076,
+        "stop_name": "Paradero 73",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7483567,
+        "longitude": 21.1318154,
+        "stop_name": "Paradero 74",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7472333,
+        "longitude": 21.1361136,
+        "stop_name": "Paradero 75",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7489682,
+        "longitude": 21.1374259,
+        "stop_name": "Paradero 76",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7508989,
+        "longitude": 21.1381673,
+        "stop_name": "Paradero 77",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7538702,
+        "longitude": 21.1350958,
+        "stop_name": "Paradero 78",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7612065,
+        "longitude": 21.1351516,
+        "stop_name": "Paradero 79",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7701143,
+        "longitude": 21.1390114,
+        "stop_name": "Paradero 80",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.77441,
+        "longitude": 21.141938,
+        "stop_name": "Paradero 81",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.777777,
+        "longitude": 21.1440095,
+        "stop_name": "Paradero 82",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830486,
+        "longitude": 21.143423,
+        "stop_name": "Paradero 83",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.785936,
+        "longitude": 21.1428776,
+        "stop_name": "Paradero 84",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7906163,
+        "longitude": 21.1457272,
+        "stop_name": "Paradero 85",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7932049,
+        "longitude": 21.1489322,
+        "stop_name": "Paradero 86",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7942562,
+        "longitude": 21.1501601,
+        "stop_name": "Paradero 87",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7957625,
+        "longitude": 21.151413,
+        "stop_name": "Paradero 88",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7989621,
+        "longitude": 21.1546045,
+        "stop_name": "Paradero 89",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.806481,
+        "longitude": 21.159181,
+        "stop_name": "Paradero 90",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8238562,
+        "longitude": 21.175583,
+        "stop_name": "Semáforo A",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8267146,
+        "longitude": 21.1741976,
+        "stop_name": "Semáforo B",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.826503,
+        "longitude": 21.17225,
+        "stop_name": "Semáforo Peatonal C",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8262973,
+        "longitude": 21.1702471,
+        "stop_name": "Semáforo D",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8253415,
+        "longitude": 21.1569648,
+        "stop_name": "Semáforo 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8213655,
+        "longitude": 21.1557051,
+        "stop_name": "Semáforo 2",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8074371,
+        "longitude": 21.1589629,
+        "stop_name": "Semáforo 3",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7925256,
+        "longitude": 21.1478236,
+        "stop_name": "Semáforo 4",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7914564,
+        "longitude": 21.1465007,
+        "stop_name": "Semáforo 5",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7827312,
+        "longitude": 21.1433475,
+        "stop_name": "Semáforo 6",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7700552,
+        "longitude": 21.1387789,
+        "stop_name": "Semáforo 7",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7609498,
+        "longitude": 21.1349264,
+        "stop_name": "Semáforo 8",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.749503,
+        "longitude": 21.1367289,
+        "stop_name": "Semáforo Peatonal 9",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7482452,
+        "longitude": 21.1338169,
+        "stop_name": "Semáforo Peatonal10",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486936,
+        "longitude": 21.1323675,
+        "stop_name": "Semáforo Peatonal 11",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7503763,
+        "longitude": 21.1295522,
+        "stop_name": "Semáforo 12",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7572436,
+        "longitude": 21.118022,
+        "stop_name": "Semáforo 13",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7617697,
+        "longitude": 21.1120981,
+        "stop_name": "Semáforo 14",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7626341,
+        "longitude": 21.110743,
+        "stop_name": "Semáforo 15",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7630727,
+        "longitude": 21.1096921,
+        "stop_name": "Semáforo 16",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7633033,
+        "longitude": 21.1087526,
+        "stop_name": "Semáforo 17",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7650297,
+        "longitude": 21.1040582,
+        "stop_name": "Semáforo 18",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7667073,
+        "longitude": 21.1009481,
+        "stop_name": "Semáforo 19",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7776657,
+        "longitude": 21.075206,
+        "stop_name": "Semáforo 20",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486654,
+        "longitude": 21.1314875,
+        "stop_name": "Semáforo 21",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7471273,
+        "longitude": 21.135924,
+        "stop_name": "Semáforo Peatonal 22",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7491877,
+        "longitude": 21.1376651,
+        "stop_name": "Semáforo Peatonal 23",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7510329,
+        "longitude": 21.1381178,
+        "stop_name": "Semáforo Peatonal 24",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.877456,
+        "longitude": 21.202525,
+        "stop_name": "Base terminal Villas del Mar III",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.826406,
+        "longitude": 21.157674,
+        "stop_name": "Paradero 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.82872,
+        "longitude": 21.1585,
+        "stop_name": "Paradero 2",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.832225,
+        "longitude": 21.157332,
+        "stop_name": "Paradero 4",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.834809,
+        "longitude": 21.156444,
+        "stop_name": "Paradero 5",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.83866,
+        "longitude": 21.155219,
+        "stop_name": "Paradero 6",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.842207,
+        "longitude": 21.154096,
+        "stop_name": "Paradero 7",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.84437,
+        "longitude": 21.155051,
+        "stop_name": "Paradero 8",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.847802,
+        "longitude": 21.158526,
+        "stop_name": "Paradero 9",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.850541,
+        "longitude": 21.161278,
+        "stop_name": "Paradero 10",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.852427,
+        "longitude": 21.162887,
+        "stop_name": "Paradero 11",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.855649,
+        "longitude": 21.166505,
+        "stop_name": "Paradero 12",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.857311,
+        "longitude": 21.16949,
+        "stop_name": "Paradero 13",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.858942,
+        "longitude": 21.172359,
+        "stop_name": "Paradero 14",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.860226,
+        "longitude": 21.174692,
+        "stop_name": "Paradero 15",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.86258,
+        "longitude": 21.178832,
+        "stop_name": "Paradero 16",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.86482,
+        "longitude": 21.182405,
+        "stop_name": "Paradero 17",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.866691,
+        "longitude": 21.185657,
+        "stop_name": "Paradero 18",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.869282,
+        "longitude": 21.190178,
+        "stop_name": "Paradero 19",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.872806,
+        "longitude": 21.196118,
+        "stop_name": "Paradero 20",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.87429,
+        "longitude": 21.197031,
+        "stop_name": "Paradero 21",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.875202,
+        "longitude": 21.198781,
+        "stop_name": "Paradero 22",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.876611,
+        "longitude": 21.201692,
+        "stop_name": "Paradero 23",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.874756,
+        "longitude": 21.196731,
+        "stop_name": "Paradero 24",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.869661,
+        "longitude": 21.190064,
+        "stop_name": "Paradero 25",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.867598,
+        "longitude": 21.186313,
+        "stop_name": "Paradero 26",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.865457,
+        "longitude": 21.182676,
+        "stop_name": "Paradero 27",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8634,
+        "longitude": 21.179563,
+        "stop_name": "Paradero 28",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.860879,
+        "longitude": 21.175115,
+        "stop_name": "Paradero 29",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.859354,
+        "longitude": 21.17267,
+        "stop_name": "Paradero 30",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.857736,
+        "longitude": 21.169673,
+        "stop_name": "Paradero 31",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.85585,
+        "longitude": 21.166241,
+        "stop_name": "Paradero 32",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.85414,
+        "longitude": 21.164248,
+        "stop_name": "Paradero 33",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.85254,
+        "longitude": 21.162704,
+        "stop_name": "Paradero 34",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.848906,
+        "longitude": 21.158897,
+        "stop_name": "Paradero 35",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.845568,
+        "longitude": 21.155563,
+        "stop_name": "Paradero 36",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.843782,
+        "longitude": 21.153872,
+        "stop_name": "Paradero 37",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.84113,
+        "longitude": 21.152594,
+        "stop_name": "Paradero 38",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.838077,
+        "longitude": 21.153764,
+        "stop_name": "Paradero 39",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.83556,
+        "longitude": 21.154357,
+        "stop_name": "Paradero 40",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.833924,
+        "longitude": 21.155071,
+        "stop_name": "Paradero 41",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.832099,
+        "longitude": 21.155552,
+        "stop_name": "Paradero 42",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.82947,
+        "longitude": 21.155955,
+        "stop_name": "Paradero 43",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8271118,
+        "longitude": 21.156349,
+        "stop_name": "Paradero 44",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8065945,
+        "longitude": 21.1588771,
+        "stop_name": "Paradero 1",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7995376,
+        "longitude": 21.1548583,
+        "stop_name": "Paradero 2",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.795294,
+        "longitude": 21.150752,
+        "stop_name": "Paradero 3",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7920803,
+        "longitude": 21.147041,
+        "stop_name": "Paradero 4",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.790073,
+        "longitude": 21.144759,
+        "stop_name": "Paradero 5",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7827709,
+        "longitude": 21.1430647,
+        "stop_name": "Paradero 6",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7755872,
+        "longitude": 21.1423915,
+        "stop_name": "Paradero 7",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.771879,
+        "longitude": 21.139835,
+        "stop_name": "Paradero 8",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7698715,
+        "longitude": 21.1384814,
+        "stop_name": "Paradero 9",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7633131,
+        "longitude": 21.1354087,
+        "stop_name": "Paradero 10",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7609454,
+        "longitude": 21.1347092,
+        "stop_name": "Paradero 11",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7560166,
+        "longitude": 21.1346325,
+        "stop_name": "Paradero 12",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7542303,
+        "longitude": 21.134751,
+        "stop_name": "Paradero 13",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7496699,
+        "longitude": 21.1367044,
+        "stop_name": "Paradero 14",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7481993,
+        "longitude": 21.1351974,
+        "stop_name": "Paradero 15",
+        "description": "P.C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7482063,
+        "longitude": 21.1339345,
+        "stop_name": "Paradero 16",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486994,
+        "longitude": 21.1325154,
+        "stop_name": "Paradero 17",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.750465,
+        "longitude": 21.129657,
+        "stop_name": "Paradero 18",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7533268,
+        "longitude": 21.1268832,
+        "stop_name": "Paradero 19",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.755265,
+        "longitude": 21.123027,
+        "stop_name": "Paradero 20",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7563568,
+        "longitude": 21.1206235,
+        "stop_name": "Paradero 21",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.757413,
+        "longitude": 21.1184724,
+        "stop_name": "Paradero 22",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7590161,
+        "longitude": 21.1150698,
+        "stop_name": "Paradero 23",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7613599,
+        "longitude": 21.1127887,
+        "stop_name": "Paradero 24",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7631061,
+        "longitude": 21.1099701,
+        "stop_name": "Paradero 25",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7654847,
+        "longitude": 21.1034738,
+        "stop_name": "Paradero 26",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7670513,
+        "longitude": 21.1006223,
+        "stop_name": "Paradero 27",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7695436,
+        "longitude": 21.0953692,
+        "stop_name": "Paradero 28",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7706726,
+        "longitude": 21.0929267,
+        "stop_name": "Paradero 29",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.772407,
+        "longitude": 21.089516,
+        "stop_name": "Paradero 30",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7733151,
+        "longitude": 21.0876691,
+        "stop_name": "Paradero 31",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7748197,
+        "longitude": 21.08375,
+        "stop_name": "Paradero 32",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7761401,
+        "longitude": 21.0803004,
+        "stop_name": "Paradero 33",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7775772,
+        "longitude": 21.0755564,
+        "stop_name": "Paradero 34",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7794073,
+        "longitude": 21.0724105,
+        "stop_name": "Paradero 35",
+        "description": "p.c",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7806397,
+        "longitude": 21.0704645,
+        "stop_name": "Paradero 36",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7804347,
+        "longitude": 21.0671785,
+        "stop_name": "Paradero 37",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7799536,
+        "longitude": 21.0655674,
+        "stop_name": "Paradero 38",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7799513,
+        "longitude": 21.0609945,
+        "stop_name": "Paradero 39",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.781958,
+        "longitude": 21.058174,
+        "stop_name": "Paradero 40",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7825092,
+        "longitude": 21.0564912,
+        "stop_name": "Paradero 41",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830479,
+        "longitude": 21.0515269,
+        "stop_name": "Paradero 42",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7834374,
+        "longitude": 21.0479885,
+        "stop_name": "Paradero 43",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7833361,
+        "longitude": 21.0456614,
+        "stop_name": "Paradero 44",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.783069,
+        "longitude": 21.040949,
+        "stop_name": "Paradero 45",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830087,
+        "longitude": 21.0449825,
+        "stop_name": "Paradero 46",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7831001,
+        "longitude": 21.0483154,
+        "stop_name": "Paradero 47",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7824862,
+        "longitude": 21.0549127,
+        "stop_name": "Paradero 48",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7813786,
+        "longitude": 21.0590331,
+        "stop_name": "Paradero 49",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7793834,
+        "longitude": 21.0619903,
+        "stop_name": "Paradero 50",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7796843,
+        "longitude": 21.065568,
+        "stop_name": "Paradero 51",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7801364,
+        "longitude": 21.0673941,
+        "stop_name": "Paradero 52",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7798549,
+        "longitude": 21.0708536,
+        "stop_name": "Paradero 53",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7773725,
+        "longitude": 21.0751306,
+        "stop_name": "Paradero 55",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7771372,
+        "longitude": 21.0762309,
+        "stop_name": "Paradero 56",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.776664,
+        "longitude": 21.077791,
+        "stop_name": "Paradero 57",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7716939,
+        "longitude": 21.0903625,
+        "stop_name": "Paradero 61",
+        "description": "P.C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7703537,
+        "longitude": 21.092946,
+        "stop_name": "Paradero 62",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7790211,
+        "longitude": 21.0724601,
+        "stop_name": "Paradero 54",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7627628,
+        "longitude": 21.110159,
+        "stop_name": "Paradero 68",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7650224,
+        "longitude": 21.1038227,
+        "stop_name": "Paradero 67",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7756076,
+        "longitude": 21.0809176,
+        "stop_name": "Paradero 58",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.774271,
+        "longitude": 21.084387,
+        "stop_name": "Paradero 59",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7729535,
+        "longitude": 21.0877725,
+        "stop_name": "Paradero 60",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7691799,
+        "longitude": 21.0955761,
+        "stop_name": "Paradero 63",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7681095,
+        "longitude": 21.097999,
+        "stop_name": "Paradero 64",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.766761,
+        "longitude": 21.100631,
+        "stop_name": "Paradero 65",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7663783,
+        "longitude": 21.101316,
+        "stop_name": "Paradero 66",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7617898,
+        "longitude": 21.1119234,
+        "stop_name": "Paradero 69",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.759779,
+        "longitude": 21.1140567,
+        "stop_name": "Paradero 70",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.757137,
+        "longitude": 21.117681,
+        "stop_name": "Paradero 71",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7547917,
+        "longitude": 21.123902,
+        "stop_name": "Paradero 72",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.750652,
+        "longitude": 21.129076,
+        "stop_name": "Paradero 73",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7483567,
+        "longitude": 21.1318154,
+        "stop_name": "Paradero 74",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7472333,
+        "longitude": 21.1361136,
+        "stop_name": "Paradero 75",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7489682,
+        "longitude": 21.1374259,
+        "stop_name": "Paradero 76",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7508989,
+        "longitude": 21.1381673,
+        "stop_name": "Paradero 77",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7538702,
+        "longitude": 21.1350958,
+        "stop_name": "Paradero 78",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7612065,
+        "longitude": 21.1351516,
+        "stop_name": "Paradero 79",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7701143,
+        "longitude": 21.1390114,
+        "stop_name": "Paradero 80",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.77441,
+        "longitude": 21.141938,
+        "stop_name": "Paradero 81",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.777777,
+        "longitude": 21.1440095,
+        "stop_name": "Paradero 82",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7830486,
+        "longitude": 21.143423,
+        "stop_name": "Paradero 83",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.785936,
+        "longitude": 21.1428776,
+        "stop_name": "Paradero 84",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7906163,
+        "longitude": 21.1457272,
+        "stop_name": "Paradero 85",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7932049,
+        "longitude": 21.1489322,
+        "stop_name": "Paradero 86",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7942562,
+        "longitude": 21.1501601,
+        "stop_name": "Paradero 87",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7957625,
+        "longitude": 21.151413,
+        "stop_name": "Paradero 88",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7989621,
+        "longitude": 21.1546045,
+        "stop_name": "Paradero 89",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.806481,
+        "longitude": 21.159181,
+        "stop_name": "Paradero 90",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.82676,
+        "longitude": 21.157742,
+        "stop_name": "Semáforo 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.829132,
+        "longitude": 21.158224,
+        "stop_name": "Semáforo 2",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.832555,
+        "longitude": 21.156944,
+        "stop_name": "Semáforo 3",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.835356,
+        "longitude": 21.156054,
+        "stop_name": "Semáforo 4",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.839372,
+        "longitude": 21.154829,
+        "stop_name": "Semáforo 5",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.842809,
+        "longitude": 21.153325,
+        "stop_name": "Semáforo 6",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.848305,
+        "longitude": 21.15873,
+        "stop_name": "Semáforo 7",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.849419,
+        "longitude": 21.159838,
+        "stop_name": "Semáforo 8",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.851535,
+        "longitude": 21.161937,
+        "stop_name": "Semáforo 9",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.853804,
+        "longitude": 21.164098,
+        "stop_name": "Semáforo 10",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.855938,
+        "longitude": 21.166716,
+        "stop_name": "Semáforo 11",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.85752,
+        "longitude": 21.16953,
+        "stop_name": "Semáforo 12",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.859136,
+        "longitude": 21.172466,
+        "stop_name": "Semáforo 13",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.860489,
+        "longitude": 21.174776,
+        "stop_name": "Semáforo 14",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.862938,
+        "longitude": 21.179142,
+        "stop_name": "Semáforo 15",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.841897,
+        "longitude": 21.152397,
+        "stop_name": "Semáforo 16",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.838638,
+        "longitude": 21.153659,
+        "stop_name": "Semáforo 17",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.834898,
+        "longitude": 21.154789,
+        "stop_name": "Semáforo 18",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.831535,
+        "longitude": 21.155841,
+        "stop_name": "Semáforo 19",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.828819,
+        "longitude": 21.156096,
+        "stop_name": "Semáforo 20",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8253415,
+        "longitude": 21.1569648,
+        "stop_name": "Semáforo 1",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8213655,
+        "longitude": 21.1557051,
+        "stop_name": "Semáforo 2",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.8074371,
+        "longitude": 21.1589629,
+        "stop_name": "Semáforo 3",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7925256,
+        "longitude": 21.1478236,
+        "stop_name": "Semáforo 4",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7914564,
+        "longitude": 21.1465007,
+        "stop_name": "Semáforo 5",
+        "description": "C-P",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7827312,
+        "longitude": 21.1433475,
+        "stop_name": "Semáforo 6",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7700552,
+        "longitude": 21.1387789,
+        "stop_name": "Semáforo 7",
+        "description": "Sin descripción",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7609498,
+        "longitude": 21.1349264,
+        "stop_name": "Semáforo 8",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.749503,
+        "longitude": 21.1367289,
+        "stop_name": "Semáforo Peatonal 9",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7482452,
+        "longitude": 21.1338169,
+        "stop_name": "Semáforo Peatonal10",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486936,
+        "longitude": 21.1323675,
+        "stop_name": "Semáforo Peatonal 11",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7503763,
+        "longitude": 21.1295522,
+        "stop_name": "Semáforo 12",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7572436,
+        "longitude": 21.118022,
+        "stop_name": "Semáforo 13",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7617697,
+        "longitude": 21.1120981,
+        "stop_name": "Semáforo 14",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7626341,
+        "longitude": 21.110743,
+        "stop_name": "Semáforo 15",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7630727,
+        "longitude": 21.1096921,
+        "stop_name": "Semáforo 16",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7633033,
+        "longitude": 21.1087526,
+        "stop_name": "Semáforo 17",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7650297,
+        "longitude": 21.1040582,
+        "stop_name": "Semáforo 18",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7667073,
+        "longitude": 21.1009481,
+        "stop_name": "Semáforo 19",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7776657,
+        "longitude": 21.075206,
+        "stop_name": "Semáforo 20",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7486654,
+        "longitude": 21.1314875,
+        "stop_name": "Semáforo 21",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7471273,
+        "longitude": 21.135924,
+        "stop_name": "Semáforo Peatonal 22",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7491877,
+        "longitude": 21.1376651,
+        "stop_name": "Semáforo Peatonal 23",
+        "description": "P-C",
+        "delay_time": 0
+      },
+      {
+        "latitude": -86.7510329,
+        "longitude": 21.1381178,
+        "stop_name": "Semáforo Peatonal 24",
+        "description": "Sin descripción",
+        "delay_time": 0
+      }
+    ]
+  }
+]

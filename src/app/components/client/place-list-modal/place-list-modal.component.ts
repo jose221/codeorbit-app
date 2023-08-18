@@ -34,7 +34,7 @@ export class PlaceListModalComponent  implements OnInit {
     if(this.searchQuery != '') {
       this.googlePlacesService.searchPlaces(this.searchQuery).subscribe({
         next: (data: any) => {
-          console.log(data)
+          //console.log(data)
           this.places = data;
         },
         error: (error: any) => {
@@ -64,9 +64,9 @@ export class PlaceListModalComponent  implements OnInit {
   init(){
     this.store.select(selectRouteClient).subscribe({
       next: (data) => {
-        console.log(data)
+        //console.log(data)
         this.routeClient = deepCopy(data.response);
-        console.log(this.routeClient)
+        //console.log(this.routeClient)
       },
       error: (error) => {
         console.error(error);

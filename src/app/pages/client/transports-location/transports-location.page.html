@@ -20,14 +20,9 @@
             <ion-label> Rutas disponibles </ion-label>
           </ion-item-divider>
 
-          <ion-item>
+          <ion-item *ngFor="let route of locationsRoutes">
             <ion-label style="display: flex; align-items: center; grid-gap: 10px;">
-              <ion-icon name="navigate-outline"></ion-icon> Ruta 1
-            </ion-label>
-          </ion-item>
-          <ion-item>
-            <ion-label style="display: flex; align-items: center; grid-gap: 10px;">
-              <ion-icon name="navigate-outline"></ion-icon> Ruta 2
+              <ion-icon name="navigate-outline"></ion-icon> {{route.route_name}}
             </ion-label>
           </ion-item>
         </ion-item-group>
