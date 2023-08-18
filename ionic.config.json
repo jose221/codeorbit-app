@@ -3,5 +3,11 @@
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular"
+  "type": "angular",
+  "proxies": [
+    {
+      "path": "/places",
+      "proxyUrl": "https://maps.googleapis.com/maps/api/place/textsearch"
+    }
+  ]
 }

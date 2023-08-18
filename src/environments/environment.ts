@@ -4,6 +4,8 @@
 
 export const environment = {
   production: false,
+  googleMaps:"AIzaSyCrYvURAC3reH-IgjFyOy5OE8gAkpwJjjE",
+  googlePlacesUrl: "https://maps.googleapis.com/maps/api/place/textsearch/json",
   firebaseConfig: {
     apiKey: "AIzaSyCylj1zA5a3peDzE0mCUSY_aHvw_0KHfEQ",
     authDomain: "codeorbit-app.firebaseapp.com",
